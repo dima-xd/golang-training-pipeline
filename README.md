@@ -1,9 +1,7 @@
 # via Dockerfile
 
 ### How to get
-1. Use FROM statement in Dockerfile:
-`FROM dimaxdqwerty/task5:latest`
-2. Build a Dockerfile with command in terminal while you in root where Dockerfile:
+1. Build a Dockerfile with command in terminal while you in root where Dockerfile:
 `docker build -t <image_name> .`
 
 ### How to run
