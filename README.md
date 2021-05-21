@@ -1,7 +1,7 @@
 # via Dockerfile
 
 ### How to get
-1. Build a Dockerfile with command in terminal while you in root where Dockerfile:
+1. Build a Dockerfile with command in terminal while you're in root where Dockerfile:
 `docker build -t <image_name> .`
 
 ### How to run
